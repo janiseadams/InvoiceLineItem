@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InvoiceLineItem", "InvoiceLineItem.pyproj", "{CDBDB462-1DDD-4742-9E80-CD37C5F9ECC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBDB462-1DDD-4742-9E80-CD37C5F9ECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBDB462-1DDD-4742-9E80-CD37C5F9ECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F545296-F18B-43A7-B56E-F1793BE0C984}
+	EndGlobalSection
+EndGlobal
